@@ -2,7 +2,7 @@ import React from "react";
 import { Fade } from "react-awesome-reveal";
 
 interface Props {
-  children: any;
+  children: React.ReactNode;
 }
 
 const FadeBox = ({ children }: Props) => {
