@@ -114,7 +114,7 @@ const Create = () => {
                   <div className="mt-2 flex items-center space-x-2">
                     <XIcon className="h-6 text-red-500" />
 
-                    <p className="text-sm">Enter a valid email address</p>
+                    <p className="text-sm">Enter a valid first name</p>
                   </div>
                 )}
               </div>
@@ -137,7 +137,7 @@ const Create = () => {
                   <div className="mt-2 flex items-center space-x-2">
                     <XIcon className="h-6 text-red-500" />
 
-                    <p className="text-sm">Enter a valid email address</p>
+                    <p className="text-sm">Enter a valid last name</p>
                   </div>
                 )}
               </div>
